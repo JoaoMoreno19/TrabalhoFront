@@ -1,0 +1,12 @@
+.container {
+    padding: 30px;
+    align-content: center;
+    justify-content: center;
+  }
+
+  .containerDois {
+    background-color: aquamarine;
+    color: black;
+    padding: 30px;
+    display: block;
+  }
